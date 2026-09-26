@@ -29,4 +29,4 @@ __pycache__/
 *.pyc
 
 # Dataset volumineux
-data/creditcard.csv
+creditcard.csv
