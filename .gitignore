@@ -1,0 +1,32 @@
+
+# Environnement Python
+.env/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données / modèles volumineux
+*.csv
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Environnement virtuel Python
+.env/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset volumineux
+data/creditcard.csv
