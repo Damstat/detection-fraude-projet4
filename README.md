@@ -51,6 +51,7 @@ detection-fraude-projet4/
 ```bash
 git clone https://github.com/<utilisateur>/detection-fraude-projet4.git
 cd detection-fraude-projet4
+cree un dossier data/creditcard.csv
 python3.12 -m .env venv
 source venv/bin/activate   
 # sous Windows : .env\Scripts\activate
