@@ -14,13 +14,13 @@ Chaque groupe doit fournir un notebook contenant toutes les étapes de la réali
 
 | Membre | Rôle |
 |---|---|
-| Membre 1 | Exploration des données (EDA) |
-| Membre 2 | Prétraitement des données |
-| Membre 3 | Gestion du déséquilibre des classes |
-| Membre 4 | Modélisation |
-| Membre 5 | Évaluation, interprétation & documentation |
+| Fatou Fall | Exploration des données (EDA) |
+| Fallou Mbaye | Prétraitement des données |
+| Atou Diagne | Gestion du déséquilibre des classes |
+| Adama Sarr | Modélisation |
+| Maimouna Diallo | Évaluation, interprétation & documentation |
 
-*(à compléter avec les noms réels des membres)*
+
 
 ## 📊 Jeu de données
 
